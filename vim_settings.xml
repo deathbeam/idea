@@ -1,0 +1,256 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1490629646795">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/services/sal/SalFlowServiceImpl.java" timestamp="1490622830113">
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="347" column="0" />
+        <mark key="." line="347" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/test/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImplTest.java" timestamp="1490629293485">
+        <mark key="'" line="182" column="26" />
+        <mark key="[" line="458" column="0" />
+        <mark key="]" line="458" column="0" />
+        <mark key="." line="458" column="0" />
+        <mark key="^" line="457" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-api/src/main/java/org/opendaylight/openflowplugin/api/openflow/registry/flow/DeviceFlowRegistry.java" timestamp="1490622729551">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1490626055784">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/datastore/multipart/FlowStatsMultipartWriter.java" timestamp="1490622841159">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" timestamp="1490629234544">
+        <mark key="'" line="396" column="12" />
+        <mark key="[" line="237" column="46" />
+        <mark key="]" line="227" column="63" />
+        <mark key="^" line="227" column="63" />
+        <mark key="." line="227" column="63" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/registry/portstatus/PortStatusRegistry.java" timestamp="1490625104144">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="22" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/OpenFlowPluginProviderImpl.java" timestamp="1490618867919">
+        <mark key="[" line="80" column="24" />
+        <mark key="]" line="80" column="23" />
+        <mark key="^" line="80" column="23" />
+        <mark key="." line="80" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-api/src/main/java/org/opendaylight/openflowplugin/api/openflow/registry/CommonDeviceRegistry.java" timestamp="1490629695460">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/registry/meter/DeviceMeterRegistryImpl.java" timestamp="1490629452111">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="87" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/initialization/OF13DeviceInitializer.java" timestamp="1490627344076">
+        <mark key="'" line="76" column="69" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/registry/flow/DeviceFlowRegistryImpl.java" timestamp="1490623198926">
+        <mark key="[" line="59" column="55" />
+        <mark key="]" line="61" column="33" />
+        <mark key="." line="61" column="33" />
+        <mark key="^" line="61" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/registry/portstatus/DevicePortStatusRegistry.java" timestamp="1490629710649">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/registry/group/DeviceGroupRegistryImpl.java" timestamp="1490629457321" />
+    </filemarks>
+    <jumps>
+      <jump line="135" column="13" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="452" column="46" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="482" column="63" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="451" column="46" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="382" column="31" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="416" column="8" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="189" column="40" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="174" column="24" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="45" column="73" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="46" column="74" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="47" column="76" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="48" column="52" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="49" column="70" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="50" column="78" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="51" column="78" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="66" column="68" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="67" column="62" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="68" column="70" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="69" column="70" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="150" column="43" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="151" column="43" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="161" column="31" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="149" column="31" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="297" column="11" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="298" column="15" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="347" column="50" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="594" column="12" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="164" column="39" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="239" column="44" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/test/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImplTest.java" />
+      <jump line="387" column="12" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="583" column="40" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="586" column="12" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="595" column="15" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="617" column="65" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="688" column="12" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="752" column="42" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="762" column="18" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="770" column="17" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="138" column="20" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="217" column="13" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="222" column="12" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="259" column="12" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="386" column="0" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="746" column="94" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="764" column="65" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="413" column="62" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="440" column="4" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/test/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImplTest.java" />
+      <jump line="458" column="15" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/test/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImplTest.java" />
+      <jump line="459" column="15" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/test/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImplTest.java" />
+      <jump line="182" column="26" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/test/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImplTest.java" />
+      <jump line="76" column="69" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/initialization/OF13DeviceInitializer.java" />
+      <jump line="782" column="0" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="305" column="0" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="172" column="20" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="224" column="12" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="262" column="85" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="402" column="12" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="589" column="8" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="740" column="8" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="771" column="17" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="218" column="13" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="173" column="20" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="232" column="12" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+      <jump line="396" column="12" filename="$USER_HOME$/git/openflowplugin/openflowplugin-impl/src/main/java/org/opendaylight/openflowplugin/impl/device/DeviceContextImpl.java" />
+    </jumps>
+    <registers>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxpc0luaXRpYWxUcmFuc2FjdGlvblN1Ym1pdHRlZFw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">LyoKICogQ29weXJpZ2h0IChjKSAyMDE3IFBhbnRoZW9uIFRlY2hub2xvZ2llcyBzLnIuby4gYW5kIG90aGVycy4gIEFsbCByaWdodHMgcmVzZXJ2ZWQuCiAqCiAqIFRoaXMgcHJvZ3JhbSBhbmQgdGhlIGFjY29tcGFueWluZyBtYXRlcmlhbHMgYXJlIG1hZGUgYXZhaWxhYmxlIHVuZGVyIHRoZQogKiB0ZXJtcyBvZiB0aGUgRWNsaXBzZSBQdWJsaWMgTGljZW5zZSB2MS4wIHdoaWNoIGFjY29tcGFuaWVzIHRoaXMgZGlzdHJpYnV0aW9uLAogKiBhbmQgaXMgYXZhaWxhYmxlIGF0IGh0dHA6Ly93d3cuZWNsaXBzZS5vcmcvbGVnYWwvZXBsLXYxMC5odG1sCiAqLwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>Copyright (c) $today.year. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan. 
+Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna. 
+Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus. 
+Vestibulum commodo. Ut</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZGV2aWNlQ29udGV4dFNweSkuc3VibWl0VHJhbnNhY3Rpb24oKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlUG9ydFN0YXR1c01lc3NhZ2UocG9ydFN0YXR1cyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlUG9ydFN0YXR1c1JlZ2lzdHJ5LmZvckVhY2gocG9ydFN0YXR1cyAtPiB7CiAgICAgICAgICAgICAgICB3cml0ZVBvcnRTdGF0dXNNZXNzYWdlKHBvcnRTdGF0dXMpOwogICAgICAgICAgICAgICAgZGV2aWNlUG9ydFN0YXR1c1JlZ2lzdHJ5LmFkZE1hcmsocG9ydFN0YXR1cyk7CiAgICAgICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gV3JpdGUgYWxsIHBvcnQgc3RhdHVzIG1lc3NhZ2VzIHRoYXQgd2UgY29sbGVjdGVkIGJlZm9yZSB3ZSBhY3RpdmF0ZWQgdHJhbnNhY3Rpb24gY2hhaW4gbWFuYWdlcgogICAgICAgICAgICBkZXZpY2VQb3J0U3RhdHVzUmVnaXN0cnkuZm9yRWFjaChwb3J0U3RhdHVzIC0+IHsKICAgICAgICAgICAgICAgIHdyaXRlUG9ydFN0YXR1c01lc3NhZ2UocG9ydFN0YXR1cyk7CiAgICAgICAgICAgICAgICBkZXZpY2VQb3J0U3RhdHVzUmVnaXN0cnkuYWRkTWFyayhwb3J0U3RhdHVzKTsKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBkZXZpY2VQb3J0U3RhdHVzUmVnaXN0cnkucHJvY2Vzc01hcmtzKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBXcml0ZSBhbGwgcG9ydCBzdGF0dXMgbWVzc2FnZXMgdGhhdCB3ZSBjb2xsZWN0ZWQgYmVmb3JlIHdlIGFjdGl2YXRlZCB0cmFuc2FjdGlvbiBjaGFpbiBtYW5hZ2VyCiAgICAgICAgZGV2aWNlUG9ydFN0YXR1c1JlZ2lzdHJ5LmZvckVhY2gocG9ydFN0YXR1cyAtPiB7CiAgICAgICAgICAgIHdyaXRlUG9ydFN0YXR1c01lc3NhZ2UocG9ydFN0YXR1cyk7CiAgICAgICAgICAgIGRldmljZVBvcnRTdGF0dXNSZWdpc3RyeS5hZGRNYXJrKHBvcnRTdGF0dXMpOwogICAgICAgIH0pOwoKICAgICAgICBkZXZpY2VQb3J0U3RhdHVzUmVnaXN0cnkucHJvY2Vzc01hcmtzKCk7Cgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>action ActivateProjectToolWindow</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxpc0luaXRpYWxUcmFuc2FjdGlvblN1Ym1pdHRlZFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxpc0luaXRpYWxUcmFuc2FjdGlvblN1Ym1pdHRlZFw+</last-pattern>
+      <last-replace>portStatusMessage</last-replace>
+      <last-substitute>portStatus</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>port stat</entry>
+        <entry encoding="base64">XDx0cmFuc2FjdGlvbkNoYWluRW5hYmxlZFw+</entry>
+        <entry>portStatus</entry>
+        <entry>deviceReg</entry>
+        <entry>registry</entry>
+        <entry encoding="base64">XDxkZXZpY2VGbG93UmVnaXN0cnlcPg==</entry>
+        <entry>lazy</entry>
+        <entry encoding="base64">XDxpbml0aWFsaXplZFw+</entry>
+        <entry>created</entry>
+        <entry>initializ</entry>
+        <entry encoding="base64">XDxkZXZpY2VDb250ZXh0U3B5XD4=</entry>
+        <entry encoding="base64">XDxPRlBNUFBPUlRERVNDXD4=</entry>
+        <entry>previous</entry>
+        <entry>Previous</entry>
+        <entry>failed</entry>
+        <entry>failed to upda</entry>
+        <entry>Failed to</entry>
+        <entry>transactionChainEnab</entry>
+        <entry encoding="base64">XDxzdG9yZVw+</entry>
+        <entry>devicePortSta</entry>
+        <entry>initialized =</entry>
+        <entry encoding="base64">XDxpc0luaXRpYWxUcmFuc2FjdGlvblN1Ym1pdHRlZFw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action GotoNextError</entry>
+        <entry encoding="base64">JzwsJz5zL3BvcnRTdGF0dXMvcG9ydFN0YXR1c01lc3NhZ2UvZw==</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Back</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>noh</entry>
+        <entry>action GotoClass</entry>
+        <entry>action ActivateProjectToolWindow</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

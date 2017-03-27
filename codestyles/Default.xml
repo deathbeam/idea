@@ -1,0 +1,22 @@
+<code_scheme name="Default">
+  <option name="GENERATE_FINAL_LOCALS" value="true" />
+  <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  <option name="REPLACE_INSTANCEOF" value="true" />
+  <option name="REPLACE_CAST" value="true" />
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="300" />
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="" withSubpackages="true" static="true" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="false" />
+    </value>
+  </option>
+  <JavaCodeStyleSettings>
+    <option name="CLASS_NAMES_IN_JAVADOC" value="2" />
+  </JavaCodeStyleSettings>
+  <REPEAT_ANNOTATIONS>
+    <ANNO name="javax.annotation.Nonnull" />
+    <ANNO name="javax.annotation.Nullable" />
+  </REPEAT_ANNOTATIONS>
+</code_scheme>
